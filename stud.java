@@ -45,3 +45,25 @@ class stud
           System.out.println("Marks of Subject" + j+ ":"+marks[j]);
     }
 }
+/*
+Output
+Enter how many students : 1
+Enter the Roll Number of the Student : 
+1
+Enter the Name of the Student : 
+Abhijith
+Enter the Marks of 5 subjects of the Student : 
+45
+42
+47
+48
+49
+
+Roll No : 1
+Name : Abhijith
+Marks of Subject0:45.0
+Marks of Subject1:42.0
+Marks of Subject2:47.0
+Marks of Subject3:48.0
+Marks of Subject4:49.0
+*/
