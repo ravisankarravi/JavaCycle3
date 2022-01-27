@@ -34,3 +34,12 @@ class freqrev
     System.out.println("Reversed String is : " +rvsd);
     }
 }
+/*
+Output
+Enter the string : 
+javaprogram
+Enter the character whose frequency to be measured : 
+a
+Frequency of a is : 3
+Reversed String is : margorpavaj
+*/
