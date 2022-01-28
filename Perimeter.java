@@ -25,3 +25,13 @@ class Perimeter
 	
 	
 }
+/*
+Output
+Enter the length and breadth of Rectangle in cm: 
+1
+2
+Enter the radius of circle in cm : 
+1
+Perimeter of the Rectangle = 6 cm
+Perimeter of the circle = 6.28 cm
+*/
