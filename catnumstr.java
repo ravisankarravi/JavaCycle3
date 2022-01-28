@@ -32,3 +32,16 @@ class catnumstr
 	}
 	
 }
+/*
+Output
+The first string is
+java
+The second string is
+program
+The first number is
+12
+The second number is
+14
+The concatenated string is javaprogram
+The concatenated number is 1214
+*/
