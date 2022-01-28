@@ -44,3 +44,12 @@ class factorialsum
 	}
 
 }
+/*
+Output
+1.Fatorial       2.Sum of Digits of a Number 
+Enter the option :  
+1
+Enter the number whose factorial has to be found : 
+6
+Factorial is 720
+*/
