@@ -36,3 +36,18 @@ class shapearea
 	
 	
 }
+/*
+Output
+Enter the length and breadth of Rectangle : 
+1
+2
+Enter the radius of circle : 
+1
+Enter the 3 sides of Triangle : 
+3
+4
+5
+Area of the circle = 3.14
+Area of the Rectangle = 2
+Area of the Triangle = 6.0
+*/
